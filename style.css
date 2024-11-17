@@ -1,0 +1,42 @@
+body{
+    background: #000000;
+    color: #ffffff;
+}
+
+h1{
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    color: #000000;
+    padding: 20px;
+}
+
+#btn1{
+    background-color: lightgoldenrodyellow;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+
+}
+
+#btn2{
+    background-color: lightgoldenrodyellow;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.img{
+    text-align: center;
+    margin-top: 15px;
+
+}
+.btn{
+    justify-content: center;
+    margin-top: 25px;
+    display: flex;
+    gap: 10%;
+}
+
+#output{
+    text-align: center;
+}
